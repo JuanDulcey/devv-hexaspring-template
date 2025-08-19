@@ -1,0 +1,5 @@
+Plantilla HexaSpring
+Estructura base de arquitectura hexagonal en Spring Boot
+Hecho por: Juan Dulcey (DevV Team)
+Año: 2025 - 2026
+
